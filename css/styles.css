@@ -219,6 +219,8 @@ label {
 
 button {
   border-radius: 0;
+  display: inline-block;
+  
 }
 
 button:focus:not(:focus-visible) {
@@ -10135,5 +10137,4 @@ section.resume-section .resume-section-content {
   align-items: center;
   height: 3rem;
   width: 3rem;
-  
 }
