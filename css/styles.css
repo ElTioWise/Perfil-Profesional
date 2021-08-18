@@ -10088,8 +10088,8 @@ p.lead {
   justify-content: center;
   height: 3.5rem;
   width: 3.5rem;
-  background-color: #495057;
-  color: #fff;
+  background-color: #114579;
+  color: rgb(187, 29, 29);
   border-radius: 100%;
   font-size: 1.5rem;
   margin-right: 1.5rem;
@@ -10130,4 +10130,10 @@ section.resume-section .resume-section-content {
     padding-top: 5rem;
     padding-bottom: 5rem;
   }
+}
+.svg-icon {
+  align-items: center;
+  height: 3rem;
+  width: 3rem;
+  
 }
